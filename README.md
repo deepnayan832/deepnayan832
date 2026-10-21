@@ -64,17 +64,13 @@ I'm a BCA student exploring artificial intelligence, useful AI tools, and softwa
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepnayan832&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
 </div>
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=deepnayan832&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" alt="GitHub trophies" />
-</div>
+[View my GitHub Profile and Achievements →](https://github.com/deepnayan832)
 
 ## 🔝 Top Contributed Repositories
 
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=deepnayan832&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top contributed repositories" />
-</div>
+[Explore my GitHub Repositories →](https://github.com/deepnayan832?tab=repositories)
 
 ## 💬 A Little Developer Inspiration
 
