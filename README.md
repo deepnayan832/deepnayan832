@@ -8,6 +8,7 @@ I'm a BCA student exploring artificial intelligence, useful AI tools, and softwa
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nayandeep832)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nayandeep832@gmail.com)
+[![Live Stock Predictor](https://img.shields.io/badge/Live_Stock_Predictor-Launch_App-16A34A?style=for-the-badge&logo=streamlit&logoColor=white)](https://stock-price-predictor-jkqbqgjjy8emsxw4vkhtta.streamlit.app/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=deepnayan832&style=flat-square&color=6C63FF)
 
@@ -22,6 +23,22 @@ I'm a BCA student exploring artificial intelligence, useful AI tools, and softwa
 - 🌱 Learning programming, web technologies, databases, and Git/GitHub workflows.
 - 🤝 Interested in collaborating on beginner-friendly AI and technology projects.
 - 🎯 Working toward building useful projects and improving consistently through hands-on practice.
+
+## 🚀 Featured Project
+
+<div align="center">
+
+### 📈 Stock Price Predictor
+
+Explore an interactive machine-learning demo that compares Linear Regression and Random Forest on historical stock prices and estimates the next trading session's price.
+
+[![Open Live App](https://img.shields.io/badge/OPEN_LIVE_APP-Stock_Price_Predictor-16A34A?style=for-the-badge&logo=streamlit&logoColor=white)](https://stock-price-predictor-jkqbqgjjy8emsxw4vkhtta.streamlit.app/)
+[![Project Homepage](https://img.shields.io/badge/PROJECT_HOMEPAGE-GitHub_Pages-2563EB?style=for-the-badge&logo=githubpages&logoColor=white)](https://deepnayan832.github.io/stock-price-predictor/)
+[![Source Code](https://img.shields.io/badge/SOURCE_CODE-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deepnayan832/stock-price-predictor)
+
+<sub>Educational project only — predictions are estimates, not financial advice or guaranteed trading signals.</sub>
+
+</div>
 
 ## 🧰 Skills & Tools
 
