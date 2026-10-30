@@ -73,7 +73,6 @@ Explore an interactive machine-learning demo that compares Linear Regression and
 ## 📊 GitHub Overview
 
 <div align="center">
- <img height="170" src="https://github-readme-stats.vercel.app/api?username=deepnayan832&show_icons=true&theme=tokyonight&hide_border=true" alt="Nayan's GitHub stats" />
   <img height="170" src="https://streak-stats.demolab.com/?user=deepnayan832&theme=tokyonight&hide_border=true" alt="Nayan's GitHub streak" />
 </div>
 
