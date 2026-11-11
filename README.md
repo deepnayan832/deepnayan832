@@ -40,6 +40,12 @@ Explore an interactive machine-learning demo that compares Linear Regression and
 
 </div>
 
+## 🚀 More projects
+
+- **[MediNexus](https://github.com/deepnayan832/MediNexus)** — Role-aware hospital operations and connected care workflows. [Open the preview](https://deepnayan832.github.io/MediNexus/).
+- **[ResearchLoop AI](https://github.com/deepnayan832/researchloop-ai)** — Evidence-first research workflows with source checks and structured reports. [Open the preview](https://deepnayan832.github.io/researchloop-ai/).
+- **[ChurnLab](https://github.com/deepnayan832/customer-churn-prediction)** — Browser-only churn analysis with local CSV import and held-out model evaluation. [Open the preview](https://deepnayan832.github.io/customer-churn-prediction/).
+
 ## 🧰 Skills & Tools
 
 *These badges represent technologies I'm learning, exploring, or have worked with—not a claim of expert-level proficiency.*
