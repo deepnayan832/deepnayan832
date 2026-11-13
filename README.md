@@ -24,27 +24,15 @@ I'm a BCA student exploring artificial intelligence, useful AI tools, and softwa
 - 🤝 Interested in collaborating on beginner-friendly AI and technology projects.
 - 🎯 Working toward building useful projects and improving consistently through hands-on practice.
 
-## 🚀 Featured Project
+## 🚀 Featured Web Applications & Projects
 
-<div align="center">
-
-### 📈 Stock Price Predictor
-
-Explore an interactive machine-learning demo that compares Linear Regression and Random Forest on historical stock prices and estimates the next trading session's price.
-
-[![Open Live App](https://img.shields.io/badge/OPEN_LIVE_APP-Stock_Price_Predictor-16A34A?style=for-the-badge&logo=streamlit&logoColor=white)](https://stock-price-predictor-jkqbqgjjy8emsxw4vkhtta.streamlit.app/)
-[![Project Homepage](https://img.shields.io/badge/PROJECT_HOMEPAGE-GitHub_Pages-2563EB?style=for-the-badge&logo=githubpages&logoColor=white)](https://deepnayan832.github.io/stock-price-predictor/)
-[![Source Code](https://img.shields.io/badge/SOURCE_CODE-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deepnayan832/stock-price-predictor)
-
-<sub>Educational project only — predictions are estimates, not financial advice or guaranteed trading signals.</sub>
-
-</div>
-
-## 🚀 More projects
-
-- **[MediNexus](https://github.com/deepnayan832/MediNexus)** — Role-aware hospital operations and connected care workflows. [Open the preview](https://deepnayan832.github.io/MediNexus/).
-- **[ResearchLoop AI](https://github.com/deepnayan832/researchloop-ai)** — Evidence-first research workflows with source checks and structured reports. [Open the preview](https://deepnayan832.github.io/researchloop-ai/).
-- **[ChurnLab](https://github.com/deepnayan832/customer-churn-prediction)** — Browser-only churn analysis with local CSV import and held-out model evaluation. [Open the preview](https://deepnayan832.github.io/customer-churn-prediction/).
+| Project | Description | Live Showcase | Source Code |
+|---|---|---|---|
+| 🦅 **NightHawk** | **Wi-Fi Intelligence & 3D RF Mapping Platform:** Local-first Windows 10/11 app featuring hardware adapter telemetry, passive ARP device discovery, 2.4/5GHz spectrum overlap analysis, and 3D room/heatmap views. | [![Launch](https://img.shields.io/badge/Live_App-00f0ff?style=flat-square&logo=googlechrome&logoColor=black)](https://deepnayan832.github.io/Night-Hawk/) | [![Code](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/deepnayan832/Night-Hawk) |
+| 🏥 **MediNexus** | **3D Connected Care & Hospital Operations Platform:** Role-aware clinical intelligence system with real-time animated ECG waveforms, interactive 3D digital twins, and liquid glass bento dashboards. | [![Launch](https://img.shields.io/badge/Live_App-10b981?style=flat-square&logo=googlechrome&logoColor=white)](https://deepnayan832.github.io/MediNexus/) | [![Code](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/deepnayan832/MediNexus) |
+| 📊 **ChurnLab** | **Browser-Only Customer Churn Analytics:** Interactive machine learning observatory featuring 3D decision boundaries, live risk gauges, and side-by-side model comparisons. | [![Launch](https://img.shields.io/badge/Live_App-f43f5e?style=flat-square&logo=googlechrome&logoColor=white)](https://deepnayan832.github.io/customer-churn-prediction/) | [![Code](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/deepnayan832/customer-churn-prediction) |
+| 🚀 **ResearchLoop AI** | **Evidence-First Autonomous Research Loop:** Cyberpunk AI research console with animated self-correcting loop graph canvas and multi-agent deliberation workflows. | [![Launch](https://img.shields.io/badge/Live_App-a855f7?style=flat-square&logo=googlechrome&logoColor=white)](https://deepnayan832.github.io/researchloop-ai/) | [![Code](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/deepnayan832/researchloop-ai) |
+| 📈 **Stock Predictor** | **Machine Learning Stock Price Forecasting:** Financial terminal comparing Linear Regression and Random Forest models with 3D volatility waves and live candlestick charts. | [![Launch](https://img.shields.io/badge/Live_App-10b981?style=flat-square&logo=streamlit&logoColor=white)](https://stock-price-predictor-jkqbqgjjy8emsxw4vkhtta.streamlit.app/) | [![Code](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/deepnayan832/stock-price-predictor) |
 
 ## 🧰 Skills & Tools
 
